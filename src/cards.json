@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "/images/mario.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "image": "./images/coin.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "image": "./images/brick.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "image": "./images/flower.jpg",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "image": "./images/luigi.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "image": "./images/mushroom.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "image": "./images/question.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "image": "./images/flowerpower.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "image": "./images/foxtail.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "image": "./images/star.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "image": "./images/toadstool.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "image": "./images/meanshroom.png",
+      "count": 0
+    }
+  ]

@@ -1,0 +1,15 @@
+.header > h1 {
+    font-family:'Rozha One', serif;
+    font-size: 8rem;
+    color: red;
+    text-align: center;
+
+}
+
+.header > h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    color: black;
+    text-align: center;
+
+}
