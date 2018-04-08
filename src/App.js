@@ -13,6 +13,10 @@ class App extends Component {
     cards: cards
   };
 
+  componentDidMount = () => {
+    this.resetGame();
+  };
+
   randomImage = id => {
     this.state.cards.forEach((image) => {
       if (image.id === id) {
@@ -88,12 +92,12 @@ class App extends Component {
           {this.state.cards.map(cards => {
 
 
-          return <ClickCard
+          return <div ClassName="col-12"> <ClickCard
             {...cards}
             key={cards.id}
             randomImage={this.randomImage}
             randomShuffle={() => this.randomShuffle(this.state.cards)}
-          />;
+          /> </div>
         })}
       </Wrapper>
   )};

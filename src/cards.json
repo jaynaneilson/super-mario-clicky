@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "/images/mario.png",
+      "image": "./images/mario.png",
       "count": 0
     },
     {

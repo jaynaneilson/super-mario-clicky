@@ -1,8 +1,14 @@
+.header {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
 .header > h1 {
     font-family:'Rozha One', serif;
     font-size: 8rem;
     color: red;
     text-align: center;
+    margin-bottom: 2rem;
 
 }
 
@@ -11,5 +17,6 @@
     font-size: 2rem;
     color: black;
     text-align: center;
+    margin-bottom: 2rem;
 
 }

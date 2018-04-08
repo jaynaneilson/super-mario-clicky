@@ -1,6 +1,14 @@
 h3 {
-    text-align: right;
-    margin-right: 20px;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 }
+
+.wrapper {
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 25px 0 50px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
