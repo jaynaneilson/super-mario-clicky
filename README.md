@@ -4,7 +4,7 @@ A Super Mario Themed memory game! Click on an image but don't click on it twice!
 
 ## Demo
 
-Please give Super Mario Clicky [GitHubPages](https://jaynaneilson.github.io/SuperMarioClicky/).
+Please give Super Mario Clicky [GitHubPages](https://jaynaneilson.github.io/super-mario-clicky/).
 
 ## Built With
 
